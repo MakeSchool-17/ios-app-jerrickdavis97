@@ -2,7 +2,7 @@
 
 
 ##Objective
-
+Create an app to help facilitate developers in learning how to develop secure swift applications
 
 ##Audience
 
@@ -21,3 +21,4 @@
 ####Data Models
 
 ##MVP Milestones
+11/1 finish dummy app and implement 1 major vulnerability.
